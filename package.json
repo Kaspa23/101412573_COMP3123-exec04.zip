@@ -1,0 +1,18 @@
+{
+  "name": "101412573_COMP3123-exec04",
+  "version": "1.0.0",
+  "description": "Express JS Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
